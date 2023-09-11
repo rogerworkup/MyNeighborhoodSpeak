@@ -6,11 +6,11 @@
 }
 
 #gameover h2,
-#gameover p {
+#gameover h3 {
    margin-bottom: 1rem;
 }
 
-#gameover p {
+#gameover h3 {
     color: #ad6b1f;
 }
 

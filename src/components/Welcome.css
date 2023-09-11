@@ -4,11 +4,11 @@
 }
 
 #welcome h2,
-#welcome p {
+#welcome h3 {
     margin-bottom: 1rem;
 }
 
-#welcome p {
+#welcome h3 {
     color: #ad6b1f;
 }
 
@@ -20,5 +20,4 @@
     display: block;
     align-items: center;
     justify-content: center;
-    margin-bottom: 1rem;
 }
