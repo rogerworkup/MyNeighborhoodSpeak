@@ -13,5 +13,12 @@
 }
 
 #welcome img{
-    margin-top: 2rem;
+    width: 70%;    
+}
+
+#logo {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
 }

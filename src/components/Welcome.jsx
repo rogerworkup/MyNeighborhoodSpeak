@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { QuizContext } from "../context/quiz";
 
-import quiz from "../img/quiz.svg";
+import logo from "../img/MyNeighborhoodSpeak.png";
 
 import "./Welcome.css";
 
@@ -15,7 +15,9 @@ const Welcome = () => {
       <button onClick={() => dispatch({ type: "CHANGE_STATE" })}>
         Iniciar
       </button>
-      <img src={quiz} alt="Início do Quiz" />
+      <div id="logo">
+      <img src={logo} alt="Início do Quiz" />
+      </div>
     </div>
   );
 };
