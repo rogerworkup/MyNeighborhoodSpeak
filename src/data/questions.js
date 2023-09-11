@@ -1,20 +1,5 @@
 const data = [
   {
-    question: "O que é Vanilla JavaScript?",
-    options: [
-      "JavaScript puro",
-      "Uma biblioteca JavaScript",
-      "Um framework JavaScript",
-      "Um compilador de JavaScript",
-    ],
-    answer: "JavaScript puro",
-  },
-  {
-    question: "Com qual instrução declaramos uma constante em JavaScript?",
-    options: ["const", "let", "var", "define"],
-    answer: "const",
-  },
-  {
     question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
     options: ["string", "number", "boolean", "float"],
     answer: "float",

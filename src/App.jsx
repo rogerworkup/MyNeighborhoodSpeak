@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Quiz App</h1>
+      <h1>Quiz</h1>
       {QuizState.gameStage === "Start" && <Welcome />}
       {QuizState.gameStage === "Playing" && <Question />}
       {QuizState.gameStage === "End" && <GameOver />}
