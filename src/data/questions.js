@@ -1,19 +1,19 @@
 const data = [
   {
-    question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
-    options: ["string", "number", "boolean", "float"],
-    answer: "float",
-  },
-  {
-    question: "Qual dos métodos a seguir seleciona um elemento?",
-    options: ["querySelector", "parseInt", "sort", "reduce"],
-    answer: "querySelector",
+    question: "Qual o nome da cor ' verde ' em ingês?",
+    options: ["Grewn", "Green", "Gren", "Gray"],
+    answer: "Green",
   },
   {
     question:
-      "Qual destas propriedades da a quantidade de elementos de um array?",
-    options: ["qty", "length", "items", "index"],
-    answer: "length",
+      "Como dizer 'boa noite' em inglês quando se chega em algum local?",
+    options: ["Good night", "Good afternoon", "Good evening", "Good morning"],
+    answer: "Good evening",
+  },
+  {
+    question: "Onde normalmente fica localizado a cama para dormir?",
+    options: ["kitchen", "living room", "garden", "bedroom"],
+    answer: "bedroom",
   },
 ];
 
