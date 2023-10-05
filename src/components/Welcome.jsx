@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { QuizContext } from "../context/quiz";
 
-import logo from "../img/MyNeighborhoodSpeak.png";
+import logo from "../img/MyNeighborhoodSpeaks.png";
 
 import "./Welcome.css";
 
